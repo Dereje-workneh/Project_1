@@ -32,8 +32,3 @@ Open the starter code instructions in a Jupyter notebook.
 -I conclude that to improve the students state departmnet of education play  great role and focusing the colabrations of stackholders as well give attention for college and high school students. Finally, I recommned more research work on the criteria of college admissions in United States collaborated with schools and students families. 
 
 
-
-SAT Result | ACT Result
------------- | -------------
-50| 60
-Content in the first column | Content in the second column
